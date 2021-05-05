@@ -5,4 +5,5 @@ a serem executados, na forma "ax:by", onde "ax" e "by" são, respectivamente, as
 one será escrito o estado final do tabuleiro, ou "erro" caso o último movimento seja inválido.
 
 [Arquivos Java A](src/mc322/lab05a)
+
 [Arquivos Java B](src/mc322/lab05b)
